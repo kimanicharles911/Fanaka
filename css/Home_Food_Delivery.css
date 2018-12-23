@@ -1,0 +1,208 @@
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 0px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+
+#Date{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#Date input[type="Date"]{
+  width:95%;
+  padding:12px 20px;
+  margin:0px 0;
+  display:inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#Timetodeliver{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#Timetodeliver input[type="time"]{
+  width:95%;
+  padding:12px 20px;
+  margin:0px 0;
+  display:inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#Numberoforders{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  }
+#Numberoforders input[type="number"]{
+  width:95%;
+  padding:12px 20px;
+  margin:0px 0;
+  display:inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+#Numberofpeopletoattend{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#MENU{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#Starter{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#checkbox_1 {
+  padding:0px;
+  margin:0px;
+  position:relative;
+  overflow: hidden;
+}
+
+#Nairobiconstituencies{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#Kiambuconstituencies{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#Numberofhightables input[type="number"]{
+  width:95%;
+  padding:12px 20px;
+  margin:0px 0;
+  display:inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+
+#Shoppingcenterorward{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#Shoppingcenterorward input[type="text"]{
+      width: 95%;
+      padding: 12px 20px;
+      margin: 0px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+}
+#PERSONALDETAILS{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  }
+
+#Fullnames{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#Fullnames input[type="text"]{
+      width: 95%;
+      padding: 12px 20px;
+      margin: 0px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+}
+
+#Phonenumber{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  }
+#Phonenumber input[type="number"]{
+  width:95%;
+  padding:12px 20px;
+  margin:0px 0;
+  display:inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+#email{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#email input[type="email"]{
+  width:95%;
+  padding:12px 20px;
+  margin:0px 0;
+  display:inline-block;
+  border: 1px solid #ccc;
+  border-radius:4px;
+}
+
+#button_1{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}

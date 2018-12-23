@@ -1,0 +1,165 @@
+body{
+  font-family:Arial,Helvetica, sans-serif;/* Brush Script MT, Brush Script Std, cursive;*/
+  font-size:15px
+  padding:0;
+  margin:0;
+  background-color:#f4f4f4;
+}
+
+/*Global*/
+.container{
+  width:80%;
+  margin-auto;
+  overflow:hidden;
+}
+
+ul{     /*Global ul*/
+  padding:0;/*removes  bullets*/
+  margin:0;
+}
+.button_1{
+  height:38px;
+  border:0;
+  background:#e8491d;
+  padding-left:20px;
+  padding-right:20px;
+  color:#1fffff;
+}
+/*header*/
+header{
+  /*font-style:italic;*/
+  background:#35424a;
+  color:#e8491d;
+  padding-top:30px;
+  min-height:70px;
+  border-bottom:#e8491d 3px solid;
+}
+
+/*ses the letter a in href links*/
+header a{
+  color:#fff;
+  font-size:16px;
+  text-transform:uppercase;
+  text-decoration:none;
+}
+
+
+header li{
+  float:left;
+  display:inline;
+  padding:0 20px 0 20px;
+}
+
+header #branding{
+    float:left;
+  }
+  header #branding{
+    margin:0;
+  }
+
+  header nav{
+    float:right;
+    margin-top:20px;
+  }
+
+nav ul li ul{ /*hiding the drop-down mistaken display*/
+    display:none;
+}
+
+nav ul li a{ /* tip from-https://stackoverflow.com/questions/9953482/how-to-make-a-pure-css-based-dropdown-menu*/
+    display: block;
+    text-decoration:none;
+    color: #ffffff;
+    border-top: 1px solid #e8491d;
+    /*padding: 5px 15px 5px 15px*/
+    background: #35424a;
+    margin-left: 1px;
+    white-space: nowrap;
+
+}
+
+header nav ul li:hover ul{
+    display:block;
+    position:absolute;
+}
+
+header .highlight, header .current a{
+  color:#e8491d;
+  font-weight:bold;
+}
+
+header a:hover{
+  color:#cccccc;
+  font-weight:bold;
+}
+/*showcase*/
+#showcase{
+  min-height:400px;
+  background:url("/img/A_team_dedicated_to_serve.jpg") no-repeat 0 -400px;
+  text-align:center;
+  color:#1E90FF;
+}
+#showcase h1{
+  margin-top:100px;
+  margin-bottom:20px;
+  font-size:55px;
+}
+#showcase p{
+  font-size:20px;
+}
+/*newsletter*/
+#newsletter{
+ padding:15px;
+ background:#35424a;
+ color:#ffffff;
+}
+#newsletter form{
+  float:right;
+  margin-top:15px;
+}
+#newsletter input[type="number"]{
+  padding:4px;
+  height:25px;
+  width:250px;
+}
+#newsletter input[type="email"]{
+  padding:4px;
+  height:25px;
+  width:250px;
+}
+#newsletter input[type="password"]{
+  padding:4px;
+  height:25px;
+  width:250px;
+}
+/*boxes*/
+#Fanaka_Dynamics_Pictures{
+  margin-top:20px;
+}
+#Fanaka_Dynamics_Pictures .box{
+  float:left;
+  width:21%;
+  padding:20px;
+  text-align:center;
+}
+#Fanaka_Dynamics_Pictures .box img{
+  width:200px;
+}
+
+/*Reservations*/
+ul#Typeofevent li{
+  list-style:none;
+  padding: 20px;
+  margin-bottom:5px;
+  border: #cccccc solid 1px;
+  background:#e6e6e6;
+}
+footer{
+  padding:20px;
+  color:#fff;
+  background-color:#e8491d;
+  margin-top:20px;
+  text-align:center;
+}
+
+/*Reservation CSS*/

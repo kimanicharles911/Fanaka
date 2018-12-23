@@ -1,0 +1,89 @@
+#Name{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#Name input[type="text"]{
+      width: 95%;
+      padding: 12px 20px;
+      margin: 0px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+}
+
+#Phonenumber{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  }
+#Phonenumber input[type="number"]{
+  width:95%;
+  padding:12px 20px;
+  margin:0px 0;
+  display:inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#email{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#email input[type="email"]{
+  width:95%;
+  padding:12px 20px;
+  margin:0px 0;
+  display:inline-block;
+  border: 1px solid #ccc;
+  border-radius:4px;
+}
+
+#Message{
+  width:100%;
+  padding: 1px 5px;
+  margin: 0px 0;
+  border: 0px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#Message input[type="text"]{
+      width: 95%;
+      padding: 12px 20px;
+      margin: 0px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+}
+
+/*boxes*/
+#Social_Sites_Pictures{
+  margin-top:20px;
+}
+#Social_Sites_Pictures .box{
+  float:left;
+  width:21%;
+  padding:20px;
+  text-align:center;
+}
+#Social_Sites_Pictures .box img{
+  width:200px;
+}
+
+footer{
+  padding:20px;
+  color:#fff;
+  background-color:#e8491d;
+  margin-top:20px;
+  text-align:center;
+}
